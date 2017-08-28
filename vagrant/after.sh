@@ -1,0 +1,1 @@
+nodemon -L -q /home/vagrant/www/app.js
